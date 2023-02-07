@@ -8,6 +8,17 @@ pip install colorama
 pip install pandas
 pip install flask
 ````
+---
+All Commands
+| Commands | Function | Actif |
+|   :---:      |     :---:      |     :---:     |
+| help   | help commands     | True    |
+| layer7     | Search IP       | True    |
+| layer4     | Start Attack       | True    |
+| tools     | back Home       | True    |
+
+---
+
 ![](/silence2.PNG)
 ![](/silence.png)
 
