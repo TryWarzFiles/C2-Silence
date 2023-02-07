@@ -8,7 +8,7 @@ pip install colorama
 pip install pandas
 pip install flask
 ````
-![](https://github.com/TryWarzFiles/C2-Silence/silence2.PNG)
+![](/silence2.png)
 ![](/silence.png)
 
 
