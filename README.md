@@ -8,7 +8,7 @@ pip install colorama
 pip install pandas
 pip install flask
 ````
-![](https://github.com/TryWarzFiles/C2-Silence/blob/silence.PNG)
+![](/silence.png)
 ![](https://github.com/TryWarzFiles/C2-Silence/silence.PNG)
 
 > **Warning**
