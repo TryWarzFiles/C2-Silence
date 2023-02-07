@@ -1,7 +1,7 @@
 # SilenceNetwork
 C2 Silence DDos 
 Here is the Silence Network script works under vps linux debian
-
+---
 Install package:
 ```
 pip install colorama
@@ -20,6 +20,7 @@ All Commands
 ---
 
 ![](/silence2.PNG)
+---
 ![](/silence.png)
 
 
