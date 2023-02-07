@@ -5,6 +5,9 @@ from utils.attack import SilenceAttack
 from utils.subscriber import add_user, remove_user
 from utils.Owners import Owners
 from utils.AutoReset import resetauto
+# Developper : TryWarz#3073
+# Co - Owners : BduMix🇦🇱#4266
+# Thank using Silence Network
 username = getpass.getuser()
 
 def commands():
@@ -39,7 +42,7 @@ def commands():
         else:
             SilenceAttack().attack(args[1], args[2], args[3], args[4])
     elif commands.startswith('adduser'):
-        if username == "root" or "nicol":
+        if username == "root" or "trywarz":
             args = commands.split()
             if args[2] == 'bronze' or 'sliver' or 'gold' or 'platinum' or 'diamond':
                 add_user(args[1], args[2], args[3])
@@ -49,7 +52,7 @@ def commands():
         else:
             return print('You have not permission')
     elif commands.startswith('resetplan'):
-        if username == "root" or "TryWarz":
+        if username == "root" or "trywarz":
             args = commands.split()
             remove_user(args[1])
         else:
