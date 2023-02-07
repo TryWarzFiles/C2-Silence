@@ -13,9 +13,11 @@ All Commands
 | Commands | Function | Actif |
 |   :---:      |     :---:      |     :---:     |
 | help   | help commands     | True    |
-| layer7     | Search IP       | True    |
-| layer4     | Start Attack       | True    |
-| tools     | back Home       | True    |
+| layer7     | methods layer7      | True    |
+| layer4     | methos layer4       | True    |
+| attack     | Attack HUB       | True    |
+| tools     | panel tools       | True    |
+
 
 ---
 
